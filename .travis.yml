@@ -22,7 +22,7 @@ matrix:
     - os: linux
       env: TESTENV=py36-pyqt510
     - os: linux
-      env: TESTENV=py36-pyqt511-cov
+      env: TESTENV=py37-pyqt511-cov
     - os: osx
       env: TESTENV=py36 OSX=sierra
       osx_image: xcode9.2
